@@ -3,9 +3,7 @@
 
     <string name="placeholder_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
         anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
         exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
@@ -15,7 +13,10 @@
         incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
         exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
         in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-        sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        sint occaecat cupidatat non proident, su nostrud exercitation ullamco laboris nisi ut
+        aliquipex ea commodo consequat. Duis auteirure dolor in reprehenderit in
+        voluptate velit esse cillumdolore eu fugiat nulla pariatur.
+        Excepteur nt in culpa qui officia deserunt mollit anim idest
         laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
         incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
         exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
@@ -28,13 +29,19 @@
         sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
         laborum.
     </string>
-    <string name="placeholder_movie_plot">Twenty-two years after the events of Jurassic Park, Isla
-        Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally
-        envisioned by John Hammond.
-        Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully
-        functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
+    <string name="placeholder_movie_plot">When his brother is killed in a robbery, paraplegic Marine
+        Jake Sully decides to take his place in a mission on the distant world of Pandora. There he
+        learns of greedy corporate figurehead Parker Selfridge\'s intentions of driving off the
+        native humanoid \"Na\'vi\" in order to mine for the precious material scattered throughout
+        their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers
+        intel for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while
+        simultaneously attempting to infiltrate the Na\'vi people with the use of an \"avatar\"
+        identity. While Jake begins to bond with the native tribe and quickly falls in love with the
+        beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination
+        tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate
+        of Pandora.
     </string>
-    <string name="placeholder_movie_year">2015</string>
-    <string name="placeholder_movie_title">Jurassic World</string>
+    <string name="placeholder_movie_year">2009</string>
+    <string name="placeholder_movie_title">Avatar</string>
 
 </resources>
